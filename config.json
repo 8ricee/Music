@@ -1,0 +1,9 @@
+{
+  "TOKEN": "MTMyNzUxMjU3MDgxMDIwNDE3MA.G8XQno.KDL-aFvJqxYQvhc9Y6hAGmwDjhIvfzZmHcRSHU",
+  "PREFIX": "!",
+  "owner_id": "897517147952140288",
+  "music": {
+    "default_volume": 0.5,
+    "max_queue_size": 10
+  }
+}
